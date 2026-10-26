@@ -19,4 +19,4 @@ bibliography: refs.bib
 ## Proposal
 Insert your proposal text here. If you want to, you can add more section headings by using hashtags.
 
-Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, point an LLM at the URL of an article and ask it to format the reference as bibtex. Then paste the result in the refs.bib file.
+Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, upload the article to an LLM (or point it to the web version of the article) and ask for the reference in bibtex format. Then paste the result at the end of the refs.bib file.
