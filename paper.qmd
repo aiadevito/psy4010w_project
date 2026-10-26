@@ -1,0 +1,22 @@
+---
+title: "Psych 4010W Project: <insert title>"
+shorttitle: "<insert short title>"
+author:
+  - name: Your Name
+    affiliations: University of Missouri
+    corresponding: true
+abstract: "A brief summary of the paper goes here."
+keywords: [keyword1, keyword2]
+format:
+  apaquarto-html:
+    toc: false
+    suppress-author-note: true
+    suppress-corresponding-paragraph: true
+bibliography: refs.bib
+---
+
+
+## Proposal
+Insert your proposal text here. If you want to, you can add more section headings by using hashtags.
+
+Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, point an LLM at the URL of an article and ask it to format the reference as bibtex. Then paste the result in the refs.bib file.
