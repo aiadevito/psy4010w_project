@@ -1,0 +1,30 @@
+---
+title: "Psych 4010W Project: <insert title>"
+shorttitle: "<insert short title>"
+author:
+  - name: Abigail Iadevito
+    affiliations: University of Missouri
+    corresponding: true
+abstract: "A brief summary of the paper goes here."
+keywords: [keyword1, keyword2]
+format:
+  apaquarto-html:
+    toc: false
+    suppress-author-note: true
+    suppress-corresponding-paragraph: true
+bibliography: refs.bib
+---
+
+
+## Proposal
+#Introduction
+Artificial Intelligence is becoming more common in mental health care. AI has and can be used in the world of digital mental health tools to help with providing information, support and other interventions. D'Alfonso @dalfonso2020 explains that mental health chatbots can be useful because they are availible at times other resources are not. They are also useful for people who are uncomfortable using traditional mental health services or don't have access to them. But, AI chatbots do have their limits to what they can really do. Their responses may not always be reliable or safe for someone going through something serious. These resources should only be used to support other professional mental health providers and not replace them. 
+When people use AI to ask questions about stress, anxiety, and coping mechanism, it is important to know whether the imformation it provides is consistent. If someone asks the same question multiple times they may expect similar advice. But, differences in responses could make it harder for users to know which information to trust the most. Reliability and safety is an important ethical concern when it comes to AI and mental health services. This makes consistenty an important aspect to examine. 
+
+The purpose of this study is to examine how consistent AI applications responses are when it is asked the same mental health related questions multiple times. The study will focus on general questions about stress, anxiety, and coping strategies. The study will compare the responses with repeated trials and decide whether the information and recommendations remain the same. This is not to evaluate AI applications as some kind of therapist but it will examin the consistency of the information its giving out. This is to clarify what limitations of using AI for general mental health information. 
+
+
+#Methods 
+
+
+Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, upload the article to an LLM (or point it to the web version of the article) and ask for the reference in bibtex format. Then paste the result at the end of the refs.bib file.
