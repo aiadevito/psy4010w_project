@@ -17,6 +17,6 @@ bibliography: refs.bib
 
 
 ## Proposal
-Insert your proposal text here. If you want to, you can add more section headings by using hashtags.
+Artificial Intelligence is becoming more common in mental health care. AI has and can be used in the world of digital mental health tools to help with providing information, support and other interventions. D'Alfonso @dalfonso2020 explains that mental health chatbots can be useful because they are availible at times other resources are not. They are also useful for people who are uncomfortable using traditional mental health services or don't have access to them. But, AI chatbots do have their limits to what they can really do. Their responses may not always be reliable or safe for someone going through something serious.   
 
 Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, upload the article to an LLM (or point it to the web version of the article) and ask for the reference in bibtex format. Then paste the result at the end of the refs.bib file.
