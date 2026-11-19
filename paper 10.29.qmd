@@ -17,15 +17,15 @@ bibliography: refs.bib
 
 
 ## Proposal
-##Introduction
-Artificial Intelligence is becoming more common in mental health care. AI has and can be used in the world of digital mental health tools to help with providing information, support and other interventions. D'Alfonso @dalfonso2020 explains that mental health chatbots can be useful because they are availible at times other resources are not. They are also useful for people who are uncomfortable using traditional mental health services or don't have access to them. But, AI chatbots do have their limits to what they can really do. Their responses may not always be reliable or safe for someone going through something serious. These resources should only be used to support other professional mental health providers and not replace them. 
+## Introduction
+Artificial Intelligence (AI) is becoming more common in mental health care. AI has and can be used in the world of digital mental health tools to help with providing information, support and other interventions. @dalfonso2020ai explains that mental health chatbots can be useful because they are availible at times other resources are not. They are also useful for people who are uncomfortable using traditional mental health services or don't have access to them. However, AI chatbots do have their limits to what they can really do. Their responses may not always be reliable or safe for someone going through something serious. These resources should only be used to support other professional mental health providers and not replace them. 
 
-When people use AI to ask questions about stress, anxiety, and coping mechanism, it is important to know whether the imformation it provides is consistent. If someone asks the same question multiple times they may expect similar advice. But, differences in responses could make it harder for users to know which information to trust the most. Reliability and safety is an important ethical concern when it comes to AI and mental health services. This makes consistenty an important aspect to examine. 
+When people use AI to ask questions about stress, anxiety, and coping mechanism, it is important to know whether the imformation it provides is consistent and accurate. Someone asking the same question multiple times may expect similar advice. However, AI rersponses may change depending on the interaction, even when the prompt stays the same. Differences in responses could make it harder for users to know which information to trust the most. Also, an AI application may provide similar answers each time but still include information that is inaccurate or not supported by reliable mental health resources. Because of this, consistency and accuracy are both important when examining AI's use in providing mental health information.  
 
 The purpose of this study is to examine how consistent AI applications responses are when it is asked the same mental health related questions multiple times. The study will focus on general questions about stress, anxiety, and coping strategies. The study will compare the responses with repeated trials and decide whether the information and recommendations remain the same. This is not to evaluate AI applications as some kind of therapist but it will examin the consistency of the information its giving out. This is to clarify what limitations of using AI for general mental health information. 
 
 
-##Methods 
+## Methods 
 
 Design:
 
@@ -34,9 +34,13 @@ This study will use a repeated prompt design to examine the consistency of an AI
 Materials: 
 
 The study will use ChatGPT and a set of 10 questions related to stress and anxiety. The questions will focus on general mental health information rather than personal diagnoses or emergency situations. Examples of questions: 
+
 - What are some common ways people manage stress? 
+
 - What are some coping strategies for anxiety? 
+
 - How can someone improve their sleep when they are stressed? 
+
 - What are some ways to manage feeling overwhelmed?
 
 The questions will be written before the data is collected and kept the same throughout the whole study. This is so that differences in wording won't effect the responses. 
@@ -47,4 +51,4 @@ Each of the ten questions will be submitted to ChatGPT three separate times, so 
 
 To evalute the information correctly, the responses will be compared to mental health resources and organizations. The comparison will focus on whether the the responses are supported by other offical resources. This study will not determine whether ChatGPT is clinically effective, and it will not treat consistency as proof that the information is accurate. 
 
-Here is an example of citing a paper in parentheses, where the refs.bib file contains the paper details [@fakeone2023]. And @faketwo2020 shows how it is possible to cite authors in text. To cite real articles, upload the article to an LLM (or point it to the web version of the article) and ask for the reference in bibtex format. Then paste the result at the end of the refs.bib file.
+
