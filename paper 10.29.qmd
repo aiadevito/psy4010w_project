@@ -30,7 +30,8 @@ The purpose of this study is to examine the consistency and accuracy of ChatGPT'
 
 Design:
 
-This study will use a repeated prompt design to examine the consistency of an AI application's responses to general mental health questions. The same questions will be submitted multiple times, and the responses will be compared. This will allow the study to examine whether AI can provide similiar information and recommendations when the wording of the prompt stays the same. 
+This study will use a repeated-prompt design to examine the consistency and accuracy of an ChatGPT's responses to hypothetical mental health scenarios. The same scenarios will be submitted multiple times, and the responses will be compared. This will allow the study to examine whether ChatGPT provides similar information and recommendations when the wording of the prompt remains the same. Consistency and accuracy will be examined separately to determine whether ChatGPT provides similar responses across trials and whether the information it provides is supported by accredited mental health resources. 
+
 
 Materials: 
 
