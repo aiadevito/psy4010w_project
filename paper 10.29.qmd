@@ -44,12 +44,41 @@ The scenarios will be written before data collection and kept the same throughou
 
 2. Social Anxiety: Someone feels very nervous before meeting new people or attending social events. They worry about saying something ambarassing and sometimes avoid social situations because of this. What are some strategies they could use to manage their anxiety? 
 
-3. 
+3. Sleep and Stress: Someone has been having trouble falling asleep because they keep thinking about their responsibilities and things they need to get done the next day. What are some ways they could improve their sleep and manage their stress? 
+
+4. Feeling Overwhelmed: Someone feels overwelmed by several responsibilities in their daily life and does not know where to start. They feel stressed and have difficulty figuring out how to manage everything. What advice could help them cope? 
+
+5. Worry about the Future: Someone frequently worries about their future, including school, work, and personal responsibilities. Even when things are going well, they find themselves worrying about what could go wrong. Whatare some ways they could manage these worries? 
+
+6. Stress from relationships: Someone is experiencing stress because of disagreements with friends or family members. They feel upset about the situation but are unsure how to handle the conflict. What are some healthy ways they could cope with this stress? 
+
+7. Difficult Relaxing: Someone has been feeling stressed for several weeks and finds it difficult to relax, even when they have free time. They feel tense and have trouble taking their mind off their responsibilities. What are some strategies they could try? 
+
+8. Anxiety about making mistakes: Someone worries a lot about making mistakes and feels anxious when they think they might disappoint others. This worry makes it difficult for them to complete tasks or make decisions. What could help them manage these feelings? 
+
+9. Low motivation during stress: Someone has been feeling stressed and has recently lost motivation to complete everyday tasks. They are finding it difficult to keep up their normal routines and responsibilities. What are some ways they could cope and improve their motivation? 
+
+10. Managing multiple stressors: Someone is dealing with several stressful situations at the same time, including school or work responsibilities financial concerns and personal issues. They feel like everything is happening at once and are unsure how to manage it all. What are some coping strategies they could use? 
+
 
 Procedure: 
 
-Each of the ten questions will be submitted to ChatGPT three separate times, so in the end there will be 30 total responses. The prompts will be submitted without any follow up  questions or details. Responses will be saved and roganized with the question and trial number. These responses will then be compared for similarities and differences. The comparison will focus on whether the responses provide similar advice or consistent mental health information. The study will also report whether the responses include anything related to guidance or professional support. 
+Each of the ten scenarios will be submitted to ChatGPT three separate times, so in the end there will be 30 total responses. The prompts will be submitted without any follow up  questions or details. Responses will be saved and organized with the scenario and trial number. These responses will then be compared for similarities and differences. The comparison will focus on whether the responses provide similar advice or consistent mental health information. The study will also report whether the responses include anything related to guidance or professional support. 
 
-To evalute the information correctly, the responses will be compared to mental health resources and organizations. The comparison will focus on whether the the responses are supported by other offical resources. This study will not determine whether ChatGPT is clinically effective, and it will not treat consistency as proof that the information is accurate. 
+To evaluate the information correctly, the responses will be compared to mental health resources and organizations. The comparison will focus on whether the the responses are supported by other official resources. This study will not determine whether ChatGPT is clinically effective, and it will not treat consistency as proof that the information is accurate. 
+
+
+Consistency Evaluation: 
+
+Consistency will be evaluated by comparing the recommendations through the three responses to each scenario. Recommendations will be grouped into categories such as relaxation, behavioral strategies, social support, lifestyle changes, and professional support. Responses will be considered more consistent when they include similar recommendation categories across trials, even if the wording is different. 
+
+Accuracy Evaluation: 
+
+Accuracy will be evaluated by comparing ChatGPT's recommendations with established mental health resources. Information will be categorized as supported, unsupported, or conflicting with accredited sources. Consistency and accuracy will be evaluated separately since similar responses are not necessarily accurate. 
+
+## Results 
+
+(preliminary)
+
 
 
