@@ -35,17 +35,16 @@ This study will use a repeated-prompt design to examine the consistency and accu
 
 Materials: 
 
-The study will use ChatGPT and a set of 10 questions related to stress and anxiety. The questions will focus on general mental health information rather than personal diagnoses or emergency situations. Examples of questions: 
+The study will use ChatGPT and a set of 10 hypothetical scenarios involving stress, anxiety, and coping strategies. The scenarios will describe common situations people may experience, such as feeling overwhelmed by school or work, experiencing anxiety before social situations and more. The scenarios will focus on general mental health concerns rather than diagnoses or crisis situations. 
 
-- What are some common ways people manage stress? 
+The scenarios will be written before data collection and kept the same throughout the study. Each scenario will be submitted three times without any additional prompts or follow-up questions. The full list of scenarios used in the study provided below. 
 
-- What are some coping strategies for anxiety? 
 
-- How can someone improve their sleep when they are stressed? 
+1. Academic Stress: A college student has several assignments exams coming up and feels overwhelmed by the amount of work they need to complete. They are having trouble concentrating and feel stressed about falling behind. What are some ways they could manage their stress? 
 
-- What are some ways to manage feeling overwhelmed?
+2. Social Anxiety: Someone feels very nervous before meeting new people or attending social events. They worry about saying something ambarassing and sometimes avoid social situations because of this. What are some strategies they could use to manage their anxiety? 
 
-The questions will be written before the data is collected and kept the same throughout the whole study. This is so that differences in wording won't effect the responses. 
+3. 
 
 Procedure: 
 
