@@ -80,5 +80,5 @@ Accuracy will be evaluated by comparing ChatGPT's recommendations with establish
 
 (preliminary)
 
-
+For the first scenario academic stress, ChatGPT's responses were generally consistent across all three trials. All responses recommended time management, breaking assignments into smaller tasks, relaxation techniques, healthy habits, and reaching out for support. However, trials two and three provided more detailed suggestions and mentioned campus counseling, which was not specifically included in trial one. Overall, the main recommendations were similar, but the level of detail varied. 
 
